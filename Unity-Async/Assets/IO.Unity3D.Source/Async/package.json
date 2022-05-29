@@ -1,0 +1,21 @@
+{
+    "name": "io.unity3d.source.async",
+    "displayName": "Source Framework Async",
+    "version": "1.0.0",
+    "unity": "2020.3",
+    "description": "Component in Source Framework - Async for Unity",
+    "dependencies": {
+    },
+    "author": {
+        "name": "Kakashi",
+        "email": "john.cha@qq.com",
+        "url": "https://github.com/kakashiio/Unity-Async"
+    },
+    "samples": [
+        {
+            "displayName": "Baisc usage about the async",
+            "description": "Baisc usage about the async",
+            "path": "Samples~/Basic"
+        }
+    ]
+}
